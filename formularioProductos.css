@@ -52,3 +52,10 @@ input[type="number"] {
 textarea {
   height: 100px;
 }
+
+/* BOTONES */
+.botones {
+  margin-top: auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
