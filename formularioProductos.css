@@ -16,7 +16,6 @@
 label {
   display: block;
   margin-bottom: 10px;
-  font-family: 'Ubuntu', sans-serif;
 }
 
 input[type="text"],
@@ -30,15 +29,6 @@ textarea {
   padding: 10px 10px;
 }
 
-textarea {
-  height: 100px;
-  resize: none;
-  overflow-y: auto;
-  max-height: 300px;
-  font-family: 'Ubuntu', sans-serif;
-}
-
-
 input[type="number"] {
   display: block;
   width: 100%;
@@ -49,11 +39,6 @@ input[type="number"] {
   border: 1px solid #ccc;
 }
 
-textarea {
-  height: 100px;
-}
-
-/* BOTONES */
 .botones {
   margin-top: auto;
   text-align: center;
